@@ -1,18 +1,15 @@
 # open-weather-app
 
-============================
 
 This repo contains:
 
-1. Open Weather App
-Retrieve the last known location for a device and then display it's current weather
+1. Open Weather App : retrieve the last known location for a device and then display it's current weather
 
 
 Sample that use
 [Location APIs](http://developer.android.com/google/play-services/location.html)
 to help you make your applications location aware.
 
-This repo contains:
 
 Prerequisites
 --------------
